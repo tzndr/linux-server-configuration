@@ -1,8 +1,7 @@
 # linux_server_configuration
   Udacity curriculum project. Configuration and deployment of an AWS linux server that hosts 
   a previously completed catalog application. This application is hosted using Amazon Web Services 
-  and Lightsail an Apache2 web server running on Linux. Linux server is configured through firewall 
-  configuration and user permissions to prevent any attacks. 
+  and Lightsail and an Apache2 web server running on Linux with Mod_WSGI.
 
 ## Viewing Details
   * Public IP: **18.205.1.143**
