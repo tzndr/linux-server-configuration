@@ -3,11 +3,6 @@
   a previously completed catalog application. This application is hosted using Amazon Web Services 
   and Lightsail and an Apache2 web server running on Linux with Mod_WSGI.
 
-## Viewing Details
-  * Public IP: **18.205.1.143**
-  * SSH Port: **2200**
-  * Application URL: **www.18.205.1.143.xip.io**
-
 ## Project Details
   ### Configuration Summary
   * File and directory permissions set using octal permission values and the `chmod` command
